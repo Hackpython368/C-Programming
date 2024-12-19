@@ -117,7 +117,7 @@ int main(){
 
 ## Adding two strings
 
-***Let check your understanding about string. WAP to add to strings in C.***
+***Let check your understanding about string. WAP to add two strings in C.***
 
 ---
 
